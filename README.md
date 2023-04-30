@@ -9,13 +9,17 @@ Hello There!<br>Welcome to my Github Repository,<br><br>Myself Rohit Bera from I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Bera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Bera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rohit-Bera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohit-Bera&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rohit-Bera&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohit-Bera&icon=2&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
