@@ -16,4 +16,6 @@ Hello There!<br>Welcome to my Github Repository,<br><br>Myself Rohit Bera from I
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohit-Bera&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rohit-Bera&icon=1&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
